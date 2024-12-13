@@ -1,0 +1,1135 @@
+Title,Day,Hour,OccupancyPercent
+9/11 Cafe & Concept Store,Su,6,0
+9/11 Cafe & Concept Store,Su,7,0
+9/11 Cafe & Concept Store,Su,8,0
+9/11 Cafe & Concept Store,Su,9,9
+9/11 Cafe & Concept Store,Su,10,20
+9/11 Cafe & Concept Store,Su,11,32
+9/11 Cafe & Concept Store,Su,12,50
+9/11 Cafe & Concept Store,Su,13,60
+9/11 Cafe & Concept Store,Su,14,65
+9/11 Cafe & Concept Store,Su,15,64
+9/11 Cafe & Concept Store,Su,16,62
+9/11 Cafe & Concept Store,Su,17,64
+9/11 Cafe & Concept Store,Su,18,69
+9/11 Cafe & Concept Store,Su,19,79
+9/11 Cafe & Concept Store,Su,20,85
+9/11 Cafe & Concept Store,Su,21,82
+9/11 Cafe & Concept Store,Su,22,66
+9/11 Cafe & Concept Store,Su,23,0
+9/11 Cafe & Concept Store,Mo,6,0
+9/11 Cafe & Concept Store,Mo,7,0
+9/11 Cafe & Concept Store,Mo,8,0
+9/11 Cafe & Concept Store,Mo,9,12
+9/11 Cafe & Concept Store,Mo,10,25
+9/11 Cafe & Concept Store,Mo,11,39
+9/11 Cafe & Concept Store,Mo,12,50
+9/11 Cafe & Concept Store,Mo,13,61
+9/11 Cafe & Concept Store,Mo,14,67
+9/11 Cafe & Concept Store,Mo,15,71
+9/11 Cafe & Concept Store,Mo,16,68
+9/11 Cafe & Concept Store,Mo,17,69
+9/11 Cafe & Concept Store,Mo,18,70
+9/11 Cafe & Concept Store,Mo,19,76
+9/11 Cafe & Concept Store,Mo,20,79
+9/11 Cafe & Concept Store,Mo,21,71
+9/11 Cafe & Concept Store,Mo,22,52
+9/11 Cafe & Concept Store,Mo,23,0
+9/11 Cafe & Concept Store,Tu,6,0
+9/11 Cafe & Concept Store,Tu,7,0
+9/11 Cafe & Concept Store,Tu,8,0
+9/11 Cafe & Concept Store,Tu,9,18
+9/11 Cafe & Concept Store,Tu,10,27
+9/11 Cafe & Concept Store,Tu,11,35
+9/11 Cafe & Concept Store,Tu,12,45
+9/11 Cafe & Concept Store,Tu,13,57
+9/11 Cafe & Concept Store,Tu,14,65
+9/11 Cafe & Concept Store,Tu,15,65
+9/11 Cafe & Concept Store,Tu,16,61
+9/11 Cafe & Concept Store,Tu,17,66
+9/11 Cafe & Concept Store,Tu,18,76
+9/11 Cafe & Concept Store,Tu,19,84
+9/11 Cafe & Concept Store,Tu,20,88
+9/11 Cafe & Concept Store,Tu,21,80
+9/11 Cafe & Concept Store,Tu,22,63
+9/11 Cafe & Concept Store,Tu,23,0
+9/11 Cafe & Concept Store,We,6,0
+9/11 Cafe & Concept Store,We,7,0
+9/11 Cafe & Concept Store,We,8,0
+9/11 Cafe & Concept Store,We,9,24
+9/11 Cafe & Concept Store,We,10,40
+9/11 Cafe & Concept Store,We,11,53
+9/11 Cafe & Concept Store,We,12,66
+9/11 Cafe & Concept Store,We,13,77
+9/11 Cafe & Concept Store,We,14,84
+9/11 Cafe & Concept Store,We,15,84
+9/11 Cafe & Concept Store,We,16,81
+9/11 Cafe & Concept Store,We,17,75
+9/11 Cafe & Concept Store,We,18,75
+9/11 Cafe & Concept Store,We,19,77
+9/11 Cafe & Concept Store,We,20,83
+9/11 Cafe & Concept Store,We,21,75
+9/11 Cafe & Concept Store,We,22,59
+9/11 Cafe & Concept Store,We,23,0
+9/11 Cafe & Concept Store,Th,6,0
+9/11 Cafe & Concept Store,Th,7,0
+9/11 Cafe & Concept Store,Th,8,0
+9/11 Cafe & Concept Store,Th,9,18
+9/11 Cafe & Concept Store,Th,10,29
+9/11 Cafe & Concept Store,Th,11,44
+9/11 Cafe & Concept Store,Th,12,60
+9/11 Cafe & Concept Store,Th,13,71
+9/11 Cafe & Concept Store,Th,14,73
+9/11 Cafe & Concept Store,Th,15,70
+9/11 Cafe & Concept Store,Th,16,68
+9/11 Cafe & Concept Store,Th,17,71
+9/11 Cafe & Concept Store,Th,18,75
+9/11 Cafe & Concept Store,Th,19,76
+9/11 Cafe & Concept Store,Th,20,76
+9/11 Cafe & Concept Store,Th,21,71
+9/11 Cafe & Concept Store,Th,22,57
+9/11 Cafe & Concept Store,Th,23,0
+9/11 Cafe & Concept Store,Fr,6,0
+9/11 Cafe & Concept Store,Fr,7,0
+9/11 Cafe & Concept Store,Fr,8,0
+9/11 Cafe & Concept Store,Fr,9,17
+9/11 Cafe & Concept Store,Fr,10,28
+9/11 Cafe & Concept Store,Fr,11,45
+9/11 Cafe & Concept Store,Fr,12,63
+9/11 Cafe & Concept Store,Fr,13,80
+9/11 Cafe & Concept Store,Fr,14,87
+9/11 Cafe & Concept Store,Fr,15,82
+9/11 Cafe & Concept Store,Fr,16,74
+9/11 Cafe & Concept Store,Fr,17,73
+9/11 Cafe & Concept Store,Fr,18,81
+9/11 Cafe & Concept Store,Fr,19,91
+9/11 Cafe & Concept Store,Fr,20,100
+9/11 Cafe & Concept Store,Fr,21,93
+9/11 Cafe & Concept Store,Fr,22,67
+9/11 Cafe & Concept Store,Fr,23,0
+9/11 Cafe & Concept Store,Sa,6,0
+9/11 Cafe & Concept Store,Sa,7,0
+9/11 Cafe & Concept Store,Sa,8,0
+9/11 Cafe & Concept Store,Sa,9,16
+9/11 Cafe & Concept Store,Sa,10,31
+9/11 Cafe & Concept Store,Sa,11,45
+9/11 Cafe & Concept Store,Sa,12,57
+9/11 Cafe & Concept Store,Sa,13,62
+9/11 Cafe & Concept Store,Sa,14,64
+9/11 Cafe & Concept Store,Sa,15,64
+9/11 Cafe & Concept Store,Sa,16,62
+9/11 Cafe & Concept Store,Sa,17,65
+9/11 Cafe & Concept Store,Sa,18,69
+9/11 Cafe & Concept Store,Sa,19,78
+9/11 Cafe & Concept Store,Sa,20,83
+9/11 Cafe & Concept Store,Sa,21,79
+9/11 Cafe & Concept Store,Sa,22,63
+9/11 Cafe & Concept Store,Sa,23,0
+Air Terjun Munduk,Su,5,0
+Air Terjun Munduk,Su,6,26
+Air Terjun Munduk,Su,7,32
+Air Terjun Munduk,Su,8,34
+Air Terjun Munduk,Su,9,50
+Air Terjun Munduk,Su,10,68
+Air Terjun Munduk,Su,11,86
+Air Terjun Munduk,Su,12,91
+Air Terjun Munduk,Su,13,96
+Air Terjun Munduk,Su,14,100
+Air Terjun Munduk,Su,15,97
+Air Terjun Munduk,Su,16,87
+Air Terjun Munduk,Su,17,72
+Air Terjun Munduk,Su,18,0
+Air Terjun Munduk,Su,19,0
+Air Terjun Munduk,Su,20,0
+Air Terjun Munduk,Su,21,0
+Air Terjun Munduk,Su,22,0
+Air Terjun Munduk,Mo,5,0
+Air Terjun Munduk,Mo,6,34
+Air Terjun Munduk,Mo,7,41
+Air Terjun Munduk,Mo,8,45
+Air Terjun Munduk,Mo,9,58
+Air Terjun Munduk,Mo,10,71
+Air Terjun Munduk,Mo,11,80
+Air Terjun Munduk,Mo,12,76
+Air Terjun Munduk,Mo,13,77
+Air Terjun Munduk,Mo,14,75
+Air Terjun Munduk,Mo,15,69
+Air Terjun Munduk,Mo,16,61
+Air Terjun Munduk,Mo,17,55
+Air Terjun Munduk,Mo,18,0
+Air Terjun Munduk,Mo,19,0
+Air Terjun Munduk,Mo,20,0
+Air Terjun Munduk,Mo,21,0
+Air Terjun Munduk,Mo,22,0
+Air Terjun Munduk,Tu,5,0
+Air Terjun Munduk,Tu,6,28
+Air Terjun Munduk,Tu,7,32
+Air Terjun Munduk,Tu,8,42
+Air Terjun Munduk,Tu,9,51
+Air Terjun Munduk,Tu,10,52
+Air Terjun Munduk,Tu,11,52
+Air Terjun Munduk,Tu,12,53
+Air Terjun Munduk,Tu,13,65
+Air Terjun Munduk,Tu,14,69
+Air Terjun Munduk,Tu,15,73
+Air Terjun Munduk,Tu,16,60
+Air Terjun Munduk,Tu,17,50
+Air Terjun Munduk,Tu,18,0
+Air Terjun Munduk,Tu,19,0
+Air Terjun Munduk,Tu,20,0
+Air Terjun Munduk,Tu,21,0
+Air Terjun Munduk,Tu,22,0
+Air Terjun Munduk,We,5,0
+Air Terjun Munduk,We,6,31
+Air Terjun Munduk,We,7,31
+Air Terjun Munduk,We,8,32
+Air Terjun Munduk,We,9,32
+Air Terjun Munduk,We,10,39
+Air Terjun Munduk,We,11,57
+Air Terjun Munduk,We,12,80
+Air Terjun Munduk,We,13,90
+Air Terjun Munduk,We,14,80
+Air Terjun Munduk,We,15,63
+Air Terjun Munduk,We,16,57
+Air Terjun Munduk,We,17,60
+Air Terjun Munduk,We,18,0
+Air Terjun Munduk,We,19,0
+Air Terjun Munduk,We,20,0
+Air Terjun Munduk,We,21,0
+Air Terjun Munduk,We,22,0
+Air Terjun Munduk,Th,5,0
+Air Terjun Munduk,Th,6,39
+Air Terjun Munduk,Th,7,47
+Air Terjun Munduk,Th,8,43
+Air Terjun Munduk,Th,9,54
+Air Terjun Munduk,Th,10,57
+Air Terjun Munduk,Th,11,65
+Air Terjun Munduk,Th,12,69
+Air Terjun Munduk,Th,13,72
+Air Terjun Munduk,Th,14,72
+Air Terjun Munduk,Th,15,74
+Air Terjun Munduk,Th,16,72
+Air Terjun Munduk,Th,17,69
+Air Terjun Munduk,Th,18,0
+Air Terjun Munduk,Th,19,0
+Air Terjun Munduk,Th,20,0
+Air Terjun Munduk,Th,21,0
+Air Terjun Munduk,Th,22,0
+Air Terjun Munduk,Fr,5,0
+Air Terjun Munduk,Fr,6,20
+Air Terjun Munduk,Fr,7,25
+Air Terjun Munduk,Fr,8,27
+Air Terjun Munduk,Fr,9,43
+Air Terjun Munduk,Fr,10,54
+Air Terjun Munduk,Fr,11,65
+Air Terjun Munduk,Fr,12,74
+Air Terjun Munduk,Fr,13,87
+Air Terjun Munduk,Fr,14,91
+Air Terjun Munduk,Fr,15,87
+Air Terjun Munduk,Fr,16,73
+Air Terjun Munduk,Fr,17,61
+Air Terjun Munduk,Fr,18,0
+Air Terjun Munduk,Fr,19,0
+Air Terjun Munduk,Fr,20,0
+Air Terjun Munduk,Fr,21,0
+Air Terjun Munduk,Fr,22,0
+Air Terjun Munduk,Sa,5,0
+Air Terjun Munduk,Sa,6,29
+Air Terjun Munduk,Sa,7,38
+Air Terjun Munduk,Sa,8,37
+Air Terjun Munduk,Sa,9,45
+Air Terjun Munduk,Sa,10,47
+Air Terjun Munduk,Sa,11,65
+Air Terjun Munduk,Sa,12,78
+Air Terjun Munduk,Sa,13,91
+Air Terjun Munduk,Sa,14,94
+Air Terjun Munduk,Sa,15,90
+Air Terjun Munduk,Sa,16,85
+Air Terjun Munduk,Sa,17,70
+Air Terjun Munduk,Sa,18,0
+Air Terjun Munduk,Sa,19,0
+Air Terjun Munduk,Sa,20,0
+Air Terjun Munduk,Sa,21,0
+Air Terjun Munduk,Sa,22,0
+AKASA Specialty Coffee,Su,4,0
+AKASA Specialty Coffee,Su,5,32
+AKASA Specialty Coffee,Su,6,48
+AKASA Specialty Coffee,Su,7,62
+AKASA Specialty Coffee,Su,8,72
+AKASA Specialty Coffee,Su,9,74
+AKASA Specialty Coffee,Su,10,76
+AKASA Specialty Coffee,Su,11,82
+AKASA Specialty Coffee,Su,12,92
+AKASA Specialty Coffee,Su,13,100
+AKASA Specialty Coffee,Su,14,99
+AKASA Specialty Coffee,Su,15,91
+AKASA Specialty Coffee,Su,16,79
+AKASA Specialty Coffee,Su,17,66
+AKASA Specialty Coffee,Su,18,51
+AKASA Specialty Coffee,Su,19,32
+AKASA Specialty Coffee,Su,20,0
+AKASA Specialty Coffee,Su,21,0
+AKASA Specialty Coffee,Mo,4,0
+AKASA Specialty Coffee,Mo,5,20
+AKASA Specialty Coffee,Mo,6,32
+AKASA Specialty Coffee,Mo,7,45
+AKASA Specialty Coffee,Mo,8,53
+AKASA Specialty Coffee,Mo,9,53
+AKASA Specialty Coffee,Mo,10,51
+AKASA Specialty Coffee,Mo,11,56
+AKASA Specialty Coffee,Mo,12,63
+AKASA Specialty Coffee,Mo,13,71
+AKASA Specialty Coffee,Mo,14,72
+AKASA Specialty Coffee,Mo,15,66
+AKASA Specialty Coffee,Mo,16,56
+AKASA Specialty Coffee,Mo,17,44
+AKASA Specialty Coffee,Mo,18,31
+AKASA Specialty Coffee,Mo,19,0
+AKASA Specialty Coffee,Mo,20,0
+AKASA Specialty Coffee,Mo,21,0
+AKASA Specialty Coffee,Tu,4,0
+AKASA Specialty Coffee,Tu,5,18
+AKASA Specialty Coffee,Tu,6,33
+AKASA Specialty Coffee,Tu,7,50
+AKASA Specialty Coffee,Tu,8,60
+AKASA Specialty Coffee,Tu,9,58
+AKASA Specialty Coffee,Tu,10,54
+AKASA Specialty Coffee,Tu,11,58
+AKASA Specialty Coffee,Tu,12,68
+AKASA Specialty Coffee,Tu,13,75
+AKASA Specialty Coffee,Tu,14,75
+AKASA Specialty Coffee,Tu,15,67
+AKASA Specialty Coffee,Tu,16,54
+AKASA Specialty Coffee,Tu,17,42
+AKASA Specialty Coffee,Tu,18,30
+AKASA Specialty Coffee,Tu,19,0
+AKASA Specialty Coffee,Tu,20,0
+AKASA Specialty Coffee,Tu,21,0
+AKASA Specialty Coffee,We,4,0
+AKASA Specialty Coffee,We,5,20
+AKASA Specialty Coffee,We,6,32
+AKASA Specialty Coffee,We,7,45
+AKASA Specialty Coffee,We,8,53
+AKASA Specialty Coffee,We,9,53
+AKASA Specialty Coffee,We,10,50
+AKASA Specialty Coffee,We,11,54
+AKASA Specialty Coffee,We,12,61
+AKASA Specialty Coffee,We,13,68
+AKASA Specialty Coffee,We,14,69
+AKASA Specialty Coffee,We,15,63
+AKASA Specialty Coffee,We,16,56
+AKASA Specialty Coffee,We,17,46
+AKASA Specialty Coffee,We,18,34
+AKASA Specialty Coffee,We,19,0
+AKASA Specialty Coffee,We,20,0
+AKASA Specialty Coffee,We,21,0
+AKASA Specialty Coffee,Th,4,0
+AKASA Specialty Coffee,Th,5,21
+AKASA Specialty Coffee,Th,6,34
+AKASA Specialty Coffee,Th,7,48
+AKASA Specialty Coffee,Th,8,58
+AKASA Specialty Coffee,Th,9,61
+AKASA Specialty Coffee,Th,10,62
+AKASA Specialty Coffee,Th,11,68
+AKASA Specialty Coffee,Th,12,80
+AKASA Specialty Coffee,Th,13,88
+AKASA Specialty Coffee,Th,14,88
+AKASA Specialty Coffee,Th,15,78
+AKASA Specialty Coffee,Th,16,65
+AKASA Specialty Coffee,Th,17,50
+AKASA Specialty Coffee,Th,18,36
+AKASA Specialty Coffee,Th,19,0
+AKASA Specialty Coffee,Th,20,0
+AKASA Specialty Coffee,Th,21,0
+AKASA Specialty Coffee,Fr,4,0
+AKASA Specialty Coffee,Fr,5,19
+AKASA Specialty Coffee,Fr,6,31
+AKASA Specialty Coffee,Fr,7,45
+AKASA Specialty Coffee,Fr,8,54
+AKASA Specialty Coffee,Fr,9,56
+AKASA Specialty Coffee,Fr,10,55
+AKASA Specialty Coffee,Fr,11,59
+AKASA Specialty Coffee,Fr,12,66
+AKASA Specialty Coffee,Fr,13,73
+AKASA Specialty Coffee,Fr,14,73
+AKASA Specialty Coffee,Fr,15,66
+AKASA Specialty Coffee,Fr,16,58
+AKASA Specialty Coffee,Fr,17,48
+AKASA Specialty Coffee,Fr,18,36
+AKASA Specialty Coffee,Fr,19,0
+AKASA Specialty Coffee,Fr,20,0
+AKASA Specialty Coffee,Fr,21,0
+AKASA Specialty Coffee,Sa,4,0
+AKASA Specialty Coffee,Sa,5,25
+AKASA Specialty Coffee,Sa,6,38
+AKASA Specialty Coffee,Sa,7,52
+AKASA Specialty Coffee,Sa,8,61
+AKASA Specialty Coffee,Sa,9,63
+AKASA Specialty Coffee,Sa,10,67
+AKASA Specialty Coffee,Sa,11,76
+AKASA Specialty Coffee,Sa,12,88
+AKASA Specialty Coffee,Sa,13,97
+AKASA Specialty Coffee,Sa,14,98
+AKASA Specialty Coffee,Sa,15,90
+AKASA Specialty Coffee,Sa,16,78
+AKASA Specialty Coffee,Sa,17,64
+AKASA Specialty Coffee,Sa,18,48
+AKASA Specialty Coffee,Sa,19,31
+AKASA Specialty Coffee,Sa,20,0
+AKASA Specialty Coffee,Sa,21,0
+Aling-Aling Waterfall,Su,6,0
+Aling-Aling Waterfall,Su,7,0
+Aling-Aling Waterfall,Su,8,45
+Aling-Aling Waterfall,Su,9,63
+Aling-Aling Waterfall,Su,10,83
+Aling-Aling Waterfall,Su,11,92
+Aling-Aling Waterfall,Su,12,99
+Aling-Aling Waterfall,Su,13,100
+Aling-Aling Waterfall,Su,14,94
+Aling-Aling Waterfall,Su,15,86
+Aling-Aling Waterfall,Su,16,73
+Aling-Aling Waterfall,Su,17,0
+Aling-Aling Waterfall,Su,18,0
+Aling-Aling Waterfall,Su,19,0
+Aling-Aling Waterfall,Su,20,0
+Aling-Aling Waterfall,Su,21,0
+Aling-Aling Waterfall,Su,22,0
+Aling-Aling Waterfall,Su,23,0
+Aling-Aling Waterfall,Mo,6,0
+Aling-Aling Waterfall,Mo,7,0
+Aling-Aling Waterfall,Mo,8,19
+Aling-Aling Waterfall,Mo,9,36
+Aling-Aling Waterfall,Mo,10,52
+Aling-Aling Waterfall,Mo,11,62
+Aling-Aling Waterfall,Mo,12,66
+Aling-Aling Waterfall,Mo,13,66
+Aling-Aling Waterfall,Mo,14,63
+Aling-Aling Waterfall,Mo,15,60
+Aling-Aling Waterfall,Mo,16,50
+Aling-Aling Waterfall,Mo,17,0
+Aling-Aling Waterfall,Mo,18,0
+Aling-Aling Waterfall,Mo,19,0
+Aling-Aling Waterfall,Mo,20,0
+Aling-Aling Waterfall,Mo,21,0
+Aling-Aling Waterfall,Mo,22,0
+Aling-Aling Waterfall,Mo,23,0
+Aling-Aling Waterfall,Tu,6,0
+Aling-Aling Waterfall,Tu,7,0
+Aling-Aling Waterfall,Tu,8,25
+Aling-Aling Waterfall,Tu,9,38
+Aling-Aling Waterfall,Tu,10,56
+Aling-Aling Waterfall,Tu,11,70
+Aling-Aling Waterfall,Tu,12,75
+Aling-Aling Waterfall,Tu,13,72
+Aling-Aling Waterfall,Tu,14,69
+Aling-Aling Waterfall,Tu,15,66
+Aling-Aling Waterfall,Tu,16,56
+Aling-Aling Waterfall,Tu,17,0
+Aling-Aling Waterfall,Tu,18,0
+Aling-Aling Waterfall,Tu,19,0
+Aling-Aling Waterfall,Tu,20,0
+Aling-Aling Waterfall,Tu,21,0
+Aling-Aling Waterfall,Tu,22,0
+Aling-Aling Waterfall,Tu,23,0
+Aling-Aling Waterfall,We,6,0
+Aling-Aling Waterfall,We,7,0
+Aling-Aling Waterfall,We,8,22
+Aling-Aling Waterfall,We,9,41
+Aling-Aling Waterfall,We,10,60
+Aling-Aling Waterfall,We,11,77
+Aling-Aling Waterfall,We,12,81
+Aling-Aling Waterfall,We,13,81
+Aling-Aling Waterfall,We,14,73
+Aling-Aling Waterfall,We,15,65
+Aling-Aling Waterfall,We,16,54
+Aling-Aling Waterfall,We,17,0
+Aling-Aling Waterfall,We,18,0
+Aling-Aling Waterfall,We,19,0
+Aling-Aling Waterfall,We,20,0
+Aling-Aling Waterfall,We,21,0
+Aling-Aling Waterfall,We,22,0
+Aling-Aling Waterfall,We,23,0
+Aling-Aling Waterfall,Th,6,0
+Aling-Aling Waterfall,Th,7,0
+Aling-Aling Waterfall,Th,8,35
+Aling-Aling Waterfall,Th,9,57
+Aling-Aling Waterfall,Th,10,74
+Aling-Aling Waterfall,Th,11,87
+Aling-Aling Waterfall,Th,12,89
+Aling-Aling Waterfall,Th,13,87
+Aling-Aling Waterfall,Th,14,79
+Aling-Aling Waterfall,Th,15,70
+Aling-Aling Waterfall,Th,16,58
+Aling-Aling Waterfall,Th,17,0
+Aling-Aling Waterfall,Th,18,0
+Aling-Aling Waterfall,Th,19,0
+Aling-Aling Waterfall,Th,20,0
+Aling-Aling Waterfall,Th,21,0
+Aling-Aling Waterfall,Th,22,0
+Aling-Aling Waterfall,Th,23,0
+Aling-Aling Waterfall,Fr,6,0
+Aling-Aling Waterfall,Fr,7,0
+Aling-Aling Waterfall,Fr,8,21
+Aling-Aling Waterfall,Fr,9,42
+Aling-Aling Waterfall,Fr,10,64
+Aling-Aling Waterfall,Fr,11,79
+Aling-Aling Waterfall,Fr,12,81
+Aling-Aling Waterfall,Fr,13,72
+Aling-Aling Waterfall,Fr,14,64
+Aling-Aling Waterfall,Fr,15,59
+Aling-Aling Waterfall,Fr,16,56
+Aling-Aling Waterfall,Fr,17,0
+Aling-Aling Waterfall,Fr,18,0
+Aling-Aling Waterfall,Fr,19,0
+Aling-Aling Waterfall,Fr,20,0
+Aling-Aling Waterfall,Fr,21,0
+Aling-Aling Waterfall,Fr,22,0
+Aling-Aling Waterfall,Fr,23,0
+Aling-Aling Waterfall,Sa,6,0
+Aling-Aling Waterfall,Sa,7,0
+Aling-Aling Waterfall,Sa,8,31
+Aling-Aling Waterfall,Sa,9,51
+Aling-Aling Waterfall,Sa,10,76
+Aling-Aling Waterfall,Sa,11,89
+Aling-Aling Waterfall,Sa,12,97
+Aling-Aling Waterfall,Sa,13,97
+Aling-Aling Waterfall,Sa,14,90
+Aling-Aling Waterfall,Sa,15,81
+Aling-Aling Waterfall,Sa,16,69
+Aling-Aling Waterfall,Sa,17,0
+Aling-Aling Waterfall,Sa,18,0
+Aling-Aling Waterfall,Sa,19,0
+Aling-Aling Waterfall,Sa,20,0
+Aling-Aling Waterfall,Sa,21,0
+Aling-Aling Waterfall,Sa,22,0
+Aling-Aling Waterfall,Sa,23,0
+BAKED. Berawa,Su,6,0
+BAKED. Berawa,Su,7,32
+BAKED. Berawa,Su,8,51
+BAKED. Berawa,Su,9,67
+BAKED. Berawa,Su,10,73
+BAKED. Berawa,Su,11,73
+BAKED. Berawa,Su,12,66
+BAKED. Berawa,Su,13,66
+BAKED. Berawa,Su,14,64
+BAKED. Berawa,Su,15,61
+BAKED. Berawa,Su,16,55
+BAKED. Berawa,Su,17,46
+BAKED. Berawa,Su,18,36
+BAKED. Berawa,Su,19,0
+BAKED. Berawa,Su,20,0
+BAKED. Berawa,Su,21,0
+BAKED. Berawa,Su,22,0
+BAKED. Berawa,Su,23,0
+BAKED. Berawa,Mo,6,0
+BAKED. Berawa,Mo,7,28
+BAKED. Berawa,Mo,8,51
+BAKED. Berawa,Mo,9,69
+BAKED. Berawa,Mo,10,80
+BAKED. Berawa,Mo,11,78
+BAKED. Berawa,Mo,12,72
+BAKED. Berawa,Mo,13,67
+BAKED. Berawa,Mo,14,66
+BAKED. Berawa,Mo,15,65
+BAKED. Berawa,Mo,16,64
+BAKED. Berawa,Mo,17,56
+BAKED. Berawa,Mo,18,48
+BAKED. Berawa,Mo,19,0
+BAKED. Berawa,Mo,20,0
+BAKED. Berawa,Mo,21,0
+BAKED. Berawa,Mo,22,0
+BAKED. Berawa,Mo,23,0
+BAKED. Berawa,Tu,6,0
+BAKED. Berawa,Tu,7,34
+BAKED. Berawa,Tu,8,51
+BAKED. Berawa,Tu,9,66
+BAKED. Berawa,Tu,10,74
+BAKED. Berawa,Tu,11,76
+BAKED. Berawa,Tu,12,76
+BAKED. Berawa,Tu,13,75
+BAKED. Berawa,Tu,14,69
+BAKED. Berawa,Tu,15,65
+BAKED. Berawa,Tu,16,56
+BAKED. Berawa,Tu,17,46
+BAKED. Berawa,Tu,18,34
+BAKED. Berawa,Tu,19,0
+BAKED. Berawa,Tu,20,0
+BAKED. Berawa,Tu,21,0
+BAKED. Berawa,Tu,22,0
+BAKED. Berawa,Tu,23,0
+BAKED. Berawa,We,6,0
+BAKED. Berawa,We,7,35
+BAKED. Berawa,We,8,58
+BAKED. Berawa,We,9,74
+BAKED. Berawa,We,10,80
+BAKED. Berawa,We,11,77
+BAKED. Berawa,We,12,72
+BAKED. Berawa,We,13,69
+BAKED. Berawa,We,14,67
+BAKED. Berawa,We,15,65
+BAKED. Berawa,We,16,58
+BAKED. Berawa,We,17,49
+BAKED. Berawa,We,18,38
+BAKED. Berawa,We,19,0
+BAKED. Berawa,We,20,0
+BAKED. Berawa,We,21,0
+BAKED. Berawa,We,22,0
+BAKED. Berawa,We,23,0
+BAKED. Berawa,Th,6,0
+BAKED. Berawa,Th,7,35
+BAKED. Berawa,Th,8,59
+BAKED. Berawa,Th,9,76
+BAKED. Berawa,Th,10,83
+BAKED. Berawa,Th,11,81
+BAKED. Berawa,Th,12,79
+BAKED. Berawa,Th,13,75
+BAKED. Berawa,Th,14,72
+BAKED. Berawa,Th,15,67
+BAKED. Berawa,Th,16,60
+BAKED. Berawa,Th,17,52
+BAKED. Berawa,Th,18,41
+BAKED. Berawa,Th,19,0
+BAKED. Berawa,Th,20,0
+BAKED. Berawa,Th,21,0
+BAKED. Berawa,Th,22,0
+BAKED. Berawa,Th,23,0
+BAKED. Berawa,Fr,6,0
+BAKED. Berawa,Fr,7,34
+BAKED. Berawa,Fr,8,55
+BAKED. Berawa,Fr,9,70
+BAKED. Berawa,Fr,10,79
+BAKED. Berawa,Fr,11,82
+BAKED. Berawa,Fr,12,80
+BAKED. Berawa,Fr,13,75
+BAKED. Berawa,Fr,14,72
+BAKED. Berawa,Fr,15,69
+BAKED. Berawa,Fr,16,64
+BAKED. Berawa,Fr,17,53
+BAKED. Berawa,Fr,18,41
+BAKED. Berawa,Fr,19,0
+BAKED. Berawa,Fr,20,0
+BAKED. Berawa,Fr,21,0
+BAKED. Berawa,Fr,22,0
+BAKED. Berawa,Fr,23,0
+BAKED. Berawa,Sa,6,0
+BAKED. Berawa,Sa,7,45
+BAKED. Berawa,Sa,8,69
+BAKED. Berawa,Sa,9,88
+BAKED. Berawa,Sa,10,99
+BAKED. Berawa,Sa,11,100
+BAKED. Berawa,Sa,12,92
+BAKED. Berawa,Sa,13,84
+BAKED. Berawa,Sa,14,77
+BAKED. Berawa,Sa,15,70
+BAKED. Berawa,Sa,16,61
+BAKED. Berawa,Sa,17,52
+BAKED. Berawa,Sa,18,44
+BAKED. Berawa,Sa,19,0
+BAKED. Berawa,Sa,20,0
+BAKED. Berawa,Sa,21,0
+BAKED. Berawa,Sa,22,0
+BAKED. Berawa,Sa,23,0
+BANDUNG COLLECTION JIMBARAN,Su,6,0
+BANDUNG COLLECTION JIMBARAN,Su,7,0
+BANDUNG COLLECTION JIMBARAN,Su,8,16
+BANDUNG COLLECTION JIMBARAN,Su,9,27
+BANDUNG COLLECTION JIMBARAN,Su,10,37
+BANDUNG COLLECTION JIMBARAN,Su,11,44
+BANDUNG COLLECTION JIMBARAN,Su,12,47
+BANDUNG COLLECTION JIMBARAN,Su,13,49
+BANDUNG COLLECTION JIMBARAN,Su,14,50
+BANDUNG COLLECTION JIMBARAN,Su,15,53
+BANDUNG COLLECTION JIMBARAN,Su,16,58
+BANDUNG COLLECTION JIMBARAN,Su,17,70
+BANDUNG COLLECTION JIMBARAN,Su,18,83
+BANDUNG COLLECTION JIMBARAN,Su,19,98
+BANDUNG COLLECTION JIMBARAN,Su,20,100
+BANDUNG COLLECTION JIMBARAN,Su,21,80
+BANDUNG COLLECTION JIMBARAN,Su,22,48
+BANDUNG COLLECTION JIMBARAN,Su,23,0
+BANDUNG COLLECTION JIMBARAN,Mo,6,0
+BANDUNG COLLECTION JIMBARAN,Mo,7,0
+BANDUNG COLLECTION JIMBARAN,Mo,8,15
+BANDUNG COLLECTION JIMBARAN,Mo,9,23
+BANDUNG COLLECTION JIMBARAN,Mo,10,31
+BANDUNG COLLECTION JIMBARAN,Mo,11,36
+BANDUNG COLLECTION JIMBARAN,Mo,12,39
+BANDUNG COLLECTION JIMBARAN,Mo,13,40
+BANDUNG COLLECTION JIMBARAN,Mo,14,41
+BANDUNG COLLECTION JIMBARAN,Mo,15,42
+BANDUNG COLLECTION JIMBARAN,Mo,16,44
+BANDUNG COLLECTION JIMBARAN,Mo,17,51
+BANDUNG COLLECTION JIMBARAN,Mo,18,63
+BANDUNG COLLECTION JIMBARAN,Mo,19,76
+BANDUNG COLLECTION JIMBARAN,Mo,20,78
+BANDUNG COLLECTION JIMBARAN,Mo,21,62
+BANDUNG COLLECTION JIMBARAN,Mo,22,38
+BANDUNG COLLECTION JIMBARAN,Mo,23,0
+BANDUNG COLLECTION JIMBARAN,Tu,6,0
+BANDUNG COLLECTION JIMBARAN,Tu,7,0
+BANDUNG COLLECTION JIMBARAN,Tu,8,14
+BANDUNG COLLECTION JIMBARAN,Tu,9,22
+BANDUNG COLLECTION JIMBARAN,Tu,10,30
+BANDUNG COLLECTION JIMBARAN,Tu,11,34
+BANDUNG COLLECTION JIMBARAN,Tu,12,37
+BANDUNG COLLECTION JIMBARAN,Tu,13,39
+BANDUNG COLLECTION JIMBARAN,Tu,14,40
+BANDUNG COLLECTION JIMBARAN,Tu,15,40
+BANDUNG COLLECTION JIMBARAN,Tu,16,44
+BANDUNG COLLECTION JIMBARAN,Tu,17,51
+BANDUNG COLLECTION JIMBARAN,Tu,18,63
+BANDUNG COLLECTION JIMBARAN,Tu,19,75
+BANDUNG COLLECTION JIMBARAN,Tu,20,75
+BANDUNG COLLECTION JIMBARAN,Tu,21,60
+BANDUNG COLLECTION JIMBARAN,Tu,22,37
+BANDUNG COLLECTION JIMBARAN,Tu,23,0
+BANDUNG COLLECTION JIMBARAN,We,6,0
+BANDUNG COLLECTION JIMBARAN,We,7,0
+BANDUNG COLLECTION JIMBARAN,We,8,15
+BANDUNG COLLECTION JIMBARAN,We,9,23
+BANDUNG COLLECTION JIMBARAN,We,10,31
+BANDUNG COLLECTION JIMBARAN,We,11,36
+BANDUNG COLLECTION JIMBARAN,We,12,38
+BANDUNG COLLECTION JIMBARAN,We,13,38
+BANDUNG COLLECTION JIMBARAN,We,14,38
+BANDUNG COLLECTION JIMBARAN,We,15,39
+BANDUNG COLLECTION JIMBARAN,We,16,46
+BANDUNG COLLECTION JIMBARAN,We,17,55
+BANDUNG COLLECTION JIMBARAN,We,18,68
+BANDUNG COLLECTION JIMBARAN,We,19,79
+BANDUNG COLLECTION JIMBARAN,We,20,79
+BANDUNG COLLECTION JIMBARAN,We,21,63
+BANDUNG COLLECTION JIMBARAN,We,22,40
+BANDUNG COLLECTION JIMBARAN,We,23,0
+BANDUNG COLLECTION JIMBARAN,Th,6,0
+BANDUNG COLLECTION JIMBARAN,Th,7,0
+BANDUNG COLLECTION JIMBARAN,Th,8,12
+BANDUNG COLLECTION JIMBARAN,Th,9,22
+BANDUNG COLLECTION JIMBARAN,Th,10,30
+BANDUNG COLLECTION JIMBARAN,Th,11,35
+BANDUNG COLLECTION JIMBARAN,Th,12,35
+BANDUNG COLLECTION JIMBARAN,Th,13,37
+BANDUNG COLLECTION JIMBARAN,Th,14,36
+BANDUNG COLLECTION JIMBARAN,Th,15,40
+BANDUNG COLLECTION JIMBARAN,Th,16,46
+BANDUNG COLLECTION JIMBARAN,Th,17,57
+BANDUNG COLLECTION JIMBARAN,Th,18,68
+BANDUNG COLLECTION JIMBARAN,Th,19,78
+BANDUNG COLLECTION JIMBARAN,Th,20,79
+BANDUNG COLLECTION JIMBARAN,Th,21,66
+BANDUNG COLLECTION JIMBARAN,Th,22,44
+BANDUNG COLLECTION JIMBARAN,Th,23,0
+BANDUNG COLLECTION JIMBARAN,Fr,6,0
+BANDUNG COLLECTION JIMBARAN,Fr,7,0
+BANDUNG COLLECTION JIMBARAN,Fr,8,16
+BANDUNG COLLECTION JIMBARAN,Fr,9,24
+BANDUNG COLLECTION JIMBARAN,Fr,10,33
+BANDUNG COLLECTION JIMBARAN,Fr,11,39
+BANDUNG COLLECTION JIMBARAN,Fr,12,42
+BANDUNG COLLECTION JIMBARAN,Fr,13,42
+BANDUNG COLLECTION JIMBARAN,Fr,14,41
+BANDUNG COLLECTION JIMBARAN,Fr,15,41
+BANDUNG COLLECTION JIMBARAN,Fr,16,44
+BANDUNG COLLECTION JIMBARAN,Fr,17,51
+BANDUNG COLLECTION JIMBARAN,Fr,18,65
+BANDUNG COLLECTION JIMBARAN,Fr,19,80
+BANDUNG COLLECTION JIMBARAN,Fr,20,82
+BANDUNG COLLECTION JIMBARAN,Fr,21,68
+BANDUNG COLLECTION JIMBARAN,Fr,22,44
+BANDUNG COLLECTION JIMBARAN,Fr,23,0
+BANDUNG COLLECTION JIMBARAN,Sa,6,0
+BANDUNG COLLECTION JIMBARAN,Sa,7,0
+BANDUNG COLLECTION JIMBARAN,Sa,8,14
+BANDUNG COLLECTION JIMBARAN,Sa,9,24
+BANDUNG COLLECTION JIMBARAN,Sa,10,36
+BANDUNG COLLECTION JIMBARAN,Sa,11,43
+BANDUNG COLLECTION JIMBARAN,Sa,12,46
+BANDUNG COLLECTION JIMBARAN,Sa,13,45
+BANDUNG COLLECTION JIMBARAN,Sa,14,43
+BANDUNG COLLECTION JIMBARAN,Sa,15,44
+BANDUNG COLLECTION JIMBARAN,Sa,16,49
+BANDUNG COLLECTION JIMBARAN,Sa,17,58
+BANDUNG COLLECTION JIMBARAN,Sa,18,73
+BANDUNG COLLECTION JIMBARAN,Sa,19,87
+BANDUNG COLLECTION JIMBARAN,Sa,20,92
+BANDUNG COLLECTION JIMBARAN,Sa,21,76
+BANDUNG COLLECTION JIMBARAN,Sa,22,48
+BANDUNG COLLECTION JIMBARAN,Sa,23,0
+Banyumala twin waterfalls,Su,6,0
+Banyumala twin waterfalls,Su,7,0
+Banyumala twin waterfalls,Su,8,10
+Banyumala twin waterfalls,Su,9,25
+Banyumala twin waterfalls,Su,10,47
+Banyumala twin waterfalls,Su,11,71
+Banyumala twin waterfalls,Su,12,85
+Banyumala twin waterfalls,Su,13,90
+Banyumala twin waterfalls,Su,14,90
+Banyumala twin waterfalls,Su,15,78
+Banyumala twin waterfalls,Su,16,59
+Banyumala twin waterfalls,Su,17,35
+Banyumala twin waterfalls,Su,18,0
+Banyumala twin waterfalls,Su,19,0
+Banyumala twin waterfalls,Su,20,0
+Banyumala twin waterfalls,Su,21,0
+Banyumala twin waterfalls,Su,22,0
+Banyumala twin waterfalls,Su,23,0
+Banyumala twin waterfalls,Mo,6,0
+Banyumala twin waterfalls,Mo,7,0
+Banyumala twin waterfalls,Mo,8,11
+Banyumala twin waterfalls,Mo,9,29
+Banyumala twin waterfalls,Mo,10,55
+Banyumala twin waterfalls,Mo,11,84
+Banyumala twin waterfalls,Mo,12,100
+Banyumala twin waterfalls,Mo,13,98
+Banyumala twin waterfalls,Mo,14,87
+Banyumala twin waterfalls,Mo,15,70
+Banyumala twin waterfalls,Mo,16,49
+Banyumala twin waterfalls,Mo,17,26
+Banyumala twin waterfalls,Mo,18,0
+Banyumala twin waterfalls,Mo,19,0
+Banyumala twin waterfalls,Mo,20,0
+Banyumala twin waterfalls,Mo,21,0
+Banyumala twin waterfalls,Mo,22,0
+Banyumala twin waterfalls,Mo,23,0
+Banyumala twin waterfalls,Tu,6,0
+Banyumala twin waterfalls,Tu,7,0
+Banyumala twin waterfalls,Tu,8,9
+Banyumala twin waterfalls,Tu,9,24
+Banyumala twin waterfalls,Tu,10,49
+Banyumala twin waterfalls,Tu,11,73
+Banyumala twin waterfalls,Tu,12,87
+Banyumala twin waterfalls,Tu,13,85
+Banyumala twin waterfalls,Tu,14,77
+Banyumala twin waterfalls,Tu,15,63
+Banyumala twin waterfalls,Tu,16,44
+Banyumala twin waterfalls,Tu,17,27
+Banyumala twin waterfalls,Tu,18,0
+Banyumala twin waterfalls,Tu,19,0
+Banyumala twin waterfalls,Tu,20,0
+Banyumala twin waterfalls,Tu,21,0
+Banyumala twin waterfalls,Tu,22,0
+Banyumala twin waterfalls,Tu,23,0
+Banyumala twin waterfalls,We,6,0
+Banyumala twin waterfalls,We,7,0
+Banyumala twin waterfalls,We,8,14
+Banyumala twin waterfalls,We,9,33
+Banyumala twin waterfalls,We,10,60
+Banyumala twin waterfalls,We,11,84
+Banyumala twin waterfalls,We,12,95
+Banyumala twin waterfalls,We,13,97
+Banyumala twin waterfalls,We,14,88
+Banyumala twin waterfalls,We,15,75
+Banyumala twin waterfalls,We,16,55
+Banyumala twin waterfalls,We,17,33
+Banyumala twin waterfalls,We,18,0
+Banyumala twin waterfalls,We,19,0
+Banyumala twin waterfalls,We,20,0
+Banyumala twin waterfalls,We,21,0
+Banyumala twin waterfalls,We,22,0
+Banyumala twin waterfalls,We,23,0
+Banyumala twin waterfalls,Th,6,0
+Banyumala twin waterfalls,Th,7,0
+Banyumala twin waterfalls,Th,8,12
+Banyumala twin waterfalls,Th,9,31
+Banyumala twin waterfalls,Th,10,54
+Banyumala twin waterfalls,Th,11,73
+Banyumala twin waterfalls,Th,12,84
+Banyumala twin waterfalls,Th,13,88
+Banyumala twin waterfalls,Th,14,87
+Banyumala twin waterfalls,Th,15,80
+Banyumala twin waterfalls,Th,16,63
+Banyumala twin waterfalls,Th,17,39
+Banyumala twin waterfalls,Th,18,0
+Banyumala twin waterfalls,Th,19,0
+Banyumala twin waterfalls,Th,20,0
+Banyumala twin waterfalls,Th,21,0
+Banyumala twin waterfalls,Th,22,0
+Banyumala twin waterfalls,Th,23,0
+Banyumala twin waterfalls,Fr,6,0
+Banyumala twin waterfalls,Fr,7,0
+Banyumala twin waterfalls,Fr,8,8
+Banyumala twin waterfalls,Fr,9,26
+Banyumala twin waterfalls,Fr,10,52
+Banyumala twin waterfalls,Fr,11,78
+Banyumala twin waterfalls,Fr,12,92
+Banyumala twin waterfalls,Fr,13,97
+Banyumala twin waterfalls,Fr,14,94
+Banyumala twin waterfalls,Fr,15,85
+Banyumala twin waterfalls,Fr,16,71
+Banyumala twin waterfalls,Fr,17,46
+Banyumala twin waterfalls,Fr,18,0
+Banyumala twin waterfalls,Fr,19,0
+Banyumala twin waterfalls,Fr,20,0
+Banyumala twin waterfalls,Fr,21,0
+Banyumala twin waterfalls,Fr,22,0
+Banyumala twin waterfalls,Fr,23,0
+Banyumala twin waterfalls,Sa,6,0
+Banyumala twin waterfalls,Sa,7,0
+Banyumala twin waterfalls,Sa,8,16
+Banyumala twin waterfalls,Sa,9,29
+Banyumala twin waterfalls,Sa,10,50
+Banyumala twin waterfalls,Sa,11,72
+Banyumala twin waterfalls,Sa,12,92
+Banyumala twin waterfalls,Sa,13,99
+Banyumala twin waterfalls,Sa,14,94
+Banyumala twin waterfalls,Sa,15,82
+Banyumala twin waterfalls,Sa,16,63
+Banyumala twin waterfalls,Sa,17,40
+Banyumala twin waterfalls,Sa,18,0
+Banyumala twin waterfalls,Sa,19,0
+Banyumala twin waterfalls,Sa,20,0
+Banyumala twin waterfalls,Sa,21,0
+Banyumala twin waterfalls,Sa,22,0
+Banyumala twin waterfalls,Sa,23,0
+BATIK Restaurant,Su,6,0
+BATIK Restaurant,Su,7,0
+BATIK Restaurant,Su,8,0
+BATIK Restaurant,Su,9,0
+BATIK Restaurant,Su,10,0
+BATIK Restaurant,Su,11,0
+BATIK Restaurant,Su,12,13
+BATIK Restaurant,Su,13,20
+BATIK Restaurant,Su,14,25
+BATIK Restaurant,Su,15,42
+BATIK Restaurant,Su,16,46
+BATIK Restaurant,Su,17,45
+BATIK Restaurant,Su,18,45
+BATIK Restaurant,Su,19,56
+BATIK Restaurant,Su,20,62
+BATIK Restaurant,Su,21,57
+BATIK Restaurant,Su,22,42
+BATIK Restaurant,Su,23,0
+BATIK Restaurant,Mo,6,0
+BATIK Restaurant,Mo,7,0
+BATIK Restaurant,Mo,8,0
+BATIK Restaurant,Mo,9,0
+BATIK Restaurant,Mo,10,0
+BATIK Restaurant,Mo,11,0
+BATIK Restaurant,Mo,12,8
+BATIK Restaurant,Mo,13,12
+BATIK Restaurant,Mo,14,26
+BATIK Restaurant,Mo,15,26
+BATIK Restaurant,Mo,16,34
+BATIK Restaurant,Mo,17,38
+BATIK Restaurant,Mo,18,60
+BATIK Restaurant,Mo,19,78
+BATIK Restaurant,Mo,20,96
+BATIK Restaurant,Mo,21,84
+BATIK Restaurant,Mo,22,52
+BATIK Restaurant,Mo,23,0
+BATIK Restaurant,Tu,6,0
+BATIK Restaurant,Tu,7,0
+BATIK Restaurant,Tu,8,0
+BATIK Restaurant,Tu,9,0
+BATIK Restaurant,Tu,10,0
+BATIK Restaurant,Tu,11,0
+BATIK Restaurant,Tu,12,18
+BATIK Restaurant,Tu,13,29
+BATIK Restaurant,Tu,14,38
+BATIK Restaurant,Tu,15,37
+BATIK Restaurant,Tu,16,32
+BATIK Restaurant,Tu,17,38
+BATIK Restaurant,Tu,18,54
+BATIK Restaurant,Tu,19,78
+BATIK Restaurant,Tu,20,90
+BATIK Restaurant,Tu,21,78
+BATIK Restaurant,Tu,22,54
+BATIK Restaurant,Tu,23,0
+BATIK Restaurant,We,6,0
+BATIK Restaurant,We,7,0
+BATIK Restaurant,We,8,0
+BATIK Restaurant,We,9,0
+BATIK Restaurant,We,10,0
+BATIK Restaurant,We,11,0
+BATIK Restaurant,We,12,18
+BATIK Restaurant,We,13,30
+BATIK Restaurant,We,14,41
+BATIK Restaurant,We,15,37
+BATIK Restaurant,We,16,34
+BATIK Restaurant,We,17,32
+BATIK Restaurant,We,18,52
+BATIK Restaurant,We,19,70
+BATIK Restaurant,We,20,74
+BATIK Restaurant,We,21,61
+BATIK Restaurant,We,22,41
+BATIK Restaurant,We,23,0
+BATIK Restaurant,Th,6,0
+BATIK Restaurant,Th,7,0
+BATIK Restaurant,Th,8,0
+BATIK Restaurant,Th,9,0
+BATIK Restaurant,Th,10,0
+BATIK Restaurant,Th,11,0
+BATIK Restaurant,Th,12,33
+BATIK Restaurant,Th,13,40
+BATIK Restaurant,Th,14,45
+BATIK Restaurant,Th,15,45
+BATIK Restaurant,Th,16,48
+BATIK Restaurant,Th,17,58
+BATIK Restaurant,Th,18,78
+BATIK Restaurant,Th,19,88
+BATIK Restaurant,Th,20,89
+BATIK Restaurant,Th,21,74
+BATIK Restaurant,Th,22,57
+BATIK Restaurant,Th,23,0
+BATIK Restaurant,Fr,6,0
+BATIK Restaurant,Fr,7,0
+BATIK Restaurant,Fr,8,0
+BATIK Restaurant,Fr,9,0
+BATIK Restaurant,Fr,10,0
+BATIK Restaurant,Fr,11,0
+BATIK Restaurant,Fr,12,29
+BATIK Restaurant,Fr,13,34
+BATIK Restaurant,Fr,14,46
+BATIK Restaurant,Fr,15,44
+BATIK Restaurant,Fr,16,56
+BATIK Restaurant,Fr,17,65
+BATIK Restaurant,Fr,18,82
+BATIK Restaurant,Fr,19,97
+BATIK Restaurant,Fr,20,100
+BATIK Restaurant,Fr,21,86
+BATIK Restaurant,Fr,22,53
+BATIK Restaurant,Fr,23,0
+BATIK Restaurant,Sa,6,0
+BATIK Restaurant,Sa,7,0
+BATIK Restaurant,Sa,8,0
+BATIK Restaurant,Sa,9,0
+BATIK Restaurant,Sa,10,0
+BATIK Restaurant,Sa,11,0
+BATIK Restaurant,Sa,12,16
+BATIK Restaurant,Sa,13,29
+BATIK Restaurant,Sa,14,34
+BATIK Restaurant,Sa,15,26
+BATIK Restaurant,Sa,16,18
+BATIK Restaurant,Sa,17,32
+BATIK Restaurant,Sa,18,50
+BATIK Restaurant,Sa,19,80
+BATIK Restaurant,Sa,20,94
+BATIK Restaurant,Sa,21,81
+BATIK Restaurant,Sa,22,57
+BATIK Restaurant,Sa,23,0
+Batu Bolong Temple,Su,5,0
+Batu Bolong Temple,Su,6,5
+Batu Bolong Temple,Su,7,14
+Batu Bolong Temple,Su,8,30
+Batu Bolong Temple,Su,9,52
+Batu Bolong Temple,Su,10,71
+Batu Bolong Temple,Su,11,76
+Batu Bolong Temple,Su,12,73
+Batu Bolong Temple,Su,13,69
+Batu Bolong Temple,Su,14,70
+Batu Bolong Temple,Su,15,78
+Batu Bolong Temple,Su,16,92
+Batu Bolong Temple,Su,17,100
+Batu Bolong Temple,Su,18,87
+Batu Bolong Temple,Su,19,0
+Batu Bolong Temple,Su,20,0
+Batu Bolong Temple,Su,21,0
+Batu Bolong Temple,Su,22,0
+Batu Bolong Temple,Mo,5,0
+Batu Bolong Temple,Mo,6,3
+Batu Bolong Temple,Mo,7,6
+Batu Bolong Temple,Mo,8,16
+Batu Bolong Temple,Mo,9,30
+Batu Bolong Temple,Mo,10,47
+Batu Bolong Temple,Mo,11,55
+Batu Bolong Temple,Mo,12,55
+Batu Bolong Temple,Mo,13,49
+Batu Bolong Temple,Mo,14,49
+Batu Bolong Temple,Mo,15,58
+Batu Bolong Temple,Mo,16,72
+Batu Bolong Temple,Mo,17,79
+Batu Bolong Temple,Mo,18,67
+Batu Bolong Temple,Mo,19,0
+Batu Bolong Temple,Mo,20,0
+Batu Bolong Temple,Mo,21,0
+Batu Bolong Temple,Mo,22,0
+Batu Bolong Temple,Tu,5,0
+Batu Bolong Temple,Tu,6,2
+Batu Bolong Temple,Tu,7,5
+Batu Bolong Temple,Tu,8,12
+Batu Bolong Temple,Tu,9,28
+Batu Bolong Temple,Tu,10,45
+Batu Bolong Temple,Tu,11,55
+Batu Bolong Temple,Tu,12,51
+Batu Bolong Temple,Tu,13,46
+Batu Bolong Temple,Tu,14,46
+Batu Bolong Temple,Tu,15,53
+Batu Bolong Temple,Tu,16,66
+Batu Bolong Temple,Tu,17,74
+Batu Bolong Temple,Tu,18,65
+Batu Bolong Temple,Tu,19,0
+Batu Bolong Temple,Tu,20,0
+Batu Bolong Temple,Tu,21,0
+Batu Bolong Temple,Tu,22,0
+Batu Bolong Temple,We,5,0
+Batu Bolong Temple,We,6,5
+Batu Bolong Temple,We,7,12
+Batu Bolong Temple,We,8,23
+Batu Bolong Temple,We,9,43
+Batu Bolong Temple,We,10,61
+Batu Bolong Temple,We,11,68
+Batu Bolong Temple,We,12,61
+Batu Bolong Temple,We,13,53
+Batu Bolong Temple,We,14,51
+Batu Bolong Temple,We,15,59
+Batu Bolong Temple,We,16,75
+Batu Bolong Temple,We,17,86
+Batu Bolong Temple,We,18,81
+Batu Bolong Temple,We,19,0
+Batu Bolong Temple,We,20,0
+Batu Bolong Temple,We,21,0
+Batu Bolong Temple,We,22,0
+Batu Bolong Temple,Th,5,0
+Batu Bolong Temple,Th,6,2
+Batu Bolong Temple,Th,7,8
+Batu Bolong Temple,Th,8,20
+Batu Bolong Temple,Th,9,35
+Batu Bolong Temple,Th,10,53
+Batu Bolong Temple,Th,11,61
+Batu Bolong Temple,Th,12,61
+Batu Bolong Temple,Th,13,59
+Batu Bolong Temple,Th,14,60
+Batu Bolong Temple,Th,15,69
+Batu Bolong Temple,Th,16,83
+Batu Bolong Temple,Th,17,87
+Batu Bolong Temple,Th,18,75
+Batu Bolong Temple,Th,19,0
+Batu Bolong Temple,Th,20,0
+Batu Bolong Temple,Th,21,0
+Batu Bolong Temple,Th,22,0
+Batu Bolong Temple,Fr,5,0
+Batu Bolong Temple,Fr,6,1
+Batu Bolong Temple,Fr,7,6
+Batu Bolong Temple,Fr,8,16
+Batu Bolong Temple,Fr,9,32
+Batu Bolong Temple,Fr,10,49
+Batu Bolong Temple,Fr,11,55
+Batu Bolong Temple,Fr,12,53
+Batu Bolong Temple,Fr,13,50
+Batu Bolong Temple,Fr,14,55
+Batu Bolong Temple,Fr,15,67
+Batu Bolong Temple,Fr,16,83
+Batu Bolong Temple,Fr,17,89
+Batu Bolong Temple,Fr,18,80
+Batu Bolong Temple,Fr,19,0
+Batu Bolong Temple,Fr,20,0
+Batu Bolong Temple,Fr,21,0
+Batu Bolong Temple,Fr,22,0
+Batu Bolong Temple,Sa,5,0
+Batu Bolong Temple,Sa,6,6
+Batu Bolong Temple,Sa,7,13
+Batu Bolong Temple,Sa,8,27
+Batu Bolong Temple,Sa,9,48
+Batu Bolong Temple,Sa,10,66
+Batu Bolong Temple,Sa,11,72
+Batu Bolong Temple,Sa,12,70
+Batu Bolong Temple,Sa,13,66
+Batu Bolong Temple,Sa,14,68
+Batu Bolong Temple,Sa,15,72
+Batu Bolong Temple,Sa,16,88
+Batu Bolong Temple,Sa,17,97
+Batu Bolong Temple,Sa,18,88
+Batu Bolong Temple,Sa,19,0
+Batu Bolong Temple,Sa,20,0
+Batu Bolong Temple,Sa,21,0
+Batu Bolong Temple,Sa,22,0
